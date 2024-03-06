@@ -1,0 +1,7 @@
+intrebare 1: b d e
+intrebare 2: a
+intrebare 3: 
+intrebare 4: b c a
+intrebare 5: d e
+intrebare 6: e
+de obicei domnu valean da aceeasi examen :)
