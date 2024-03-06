@@ -14,12 +14,12 @@ This repository includes my homeworks, projects, notes, notebooks, laboratories 
 <br>
 </ul><li><b>2<sup>nd</sup> Semester</b></li>
 <ul>
-	<li><a href="">Mathematical Analysis II</a></li>
-	<li><a href="">Special Mathematicas in Engineering</a></li>
-	<li><a href="">Electrotechnics</a></li>
-	<li><a href="">Computer-Aided Graphics</a></li>
-	<li><a href="">Applied Informatics</a></li>
-	<li><a href="">Chemistry</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Mathematical%20Analysis%20II">Mathematical Analysis II</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Special%20Mathematicas%20in%20Engineering">Special Mathematicas in Engineering</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Electrotechnics">Electrotechnics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Computerr-aided%20Grapghics">Computer-Aided Graphics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Applied%20Informatics">Applied Informatics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Chemistry">Chemistry</a></li>
 </ul>
 </ul>
 
