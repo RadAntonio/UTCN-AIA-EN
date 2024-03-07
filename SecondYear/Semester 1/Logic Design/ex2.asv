@@ -1,0 +1,19 @@
+V = [400 800 1400 2000 400 800 1600 500 900 1300];
+RH = [11 30 60 80 12 32 68 20 48 72];
+T = [10 10 10 10 0 0 0 -10 -10 -10];
+%copiem datele din tabel
+
+X = [V' T'];
+A  = (X' * X) \  (X' * RH'); %formam cele doua matrici X si A
+
+X1 = [X ones([length(RH) 1])];
+
+B = regress(RH', X1);
+
+for i = 1:length(RH)
+    y(i) = B(1) * V(i) + B(2) * T(i) + B(3);  
+end
+
+plot(T, RH, 'r');
+hold on
+plot(T, y, 'b');

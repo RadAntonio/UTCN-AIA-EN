@@ -1,0 +1,7 @@
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
