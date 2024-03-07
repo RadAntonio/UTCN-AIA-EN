@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D37DC0F-40EF-4D5C-A7F6-0A3A53DBAC7F}|Lab1\\Lab1.csproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\industrial informatics\\lab1\\lab1\\lab1\\idealmass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37DC0F-40EF-4D5C-A7F6-0A3A53DBAC7F}|Lab1\\Lab1.csproj|solutionrelative:lab1\\idealmass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D37DC0F-40EF-4D5C-A7F6-0A3A53DBAC7F}|Lab1\\Lab1.csproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\industrial informatics\\lab1\\lab1\\lab1\\temperatureconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D37DC0F-40EF-4D5C-A7F6-0A3A53DBAC7F}|Lab1\\Lab1.csproj|solutionrelative:lab1\\temperatureconvertor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D37DC0F-40EF-4D5C-A7F6-0A3A53DBAC7F}|Lab1\\Lab1.csproj|C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\lab1\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D37DC0F-40EF-4D5C-A7F6-0A3A53DBAC7F}|Lab1\\Lab1.csproj|solutionrelative:lab1\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D37DC0F-40EF-4D5C-A7F6-0A3A53DBAC7F}|Lab1\\Lab1.csproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\industrial informatics\\lab1\\lab1\\lab1\\medii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D37DC0F-40EF-4D5C-A7F6-0A3A53DBAC7F}|Lab1\\Lab1.csproj|solutionrelative:lab1\\medii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Medii.cs",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\Medii.cs",
+              "RelativeDocumentMoniker": "Lab1\\Medii.cs",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\Medii.cs",
+              "RelativeToolTip": "Lab1\\Medii.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwE4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:47:55.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IdealMass.cs",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\IdealMass.cs",
+              "RelativeDocumentMoniker": "Lab1\\IdealMass.cs",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\IdealMass.cs",
+              "RelativeToolTip": "Lab1\\IdealMass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T14:28:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TemperatureConvertor.cs",
               "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\TemperatureConvertor.cs",
               "RelativeDocumentMoniker": "Lab1\\TemperatureConvertor.cs",
               "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\TemperatureConvertor.cs",
               "RelativeToolTip": "Lab1\\TemperatureConvertor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwC0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T11:13:15.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\Calculator.cs",
               "RelativeDocumentMoniker": "Lab1\\Calculator.cs",
               "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\Calculator.cs",
               "RelativeToolTip": "Lab1\\Calculator.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDIAAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T10:56:58.98Z"
+              "WhenOpened": "2024-03-07T10:56:58.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Fibonacci.cs",
               "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\Fibonacci.cs",
               "RelativeDocumentMoniker": "Lab1\\Fibonacci.cs",
               "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\Fibonacci.cs",
               "RelativeToolTip": "Lab1\\Fibonacci.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T10:18:51.796Z"
+              "WhenOpened": "2024-03-07T10:18:51.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\Program.cs",
               "RelativeDocumentMoniker": "Lab1\\Program.cs",
               "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab1\\Lab1\\Lab1\\Program.cs",
               "RelativeToolTip": "Lab1\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAwDMAAAAaAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T09:49:25.969Z"
+              "WhenOpened": "2024-03-07T09:49:25.969Z",
+              "EditorCaption": ""
             }
           ]
         }

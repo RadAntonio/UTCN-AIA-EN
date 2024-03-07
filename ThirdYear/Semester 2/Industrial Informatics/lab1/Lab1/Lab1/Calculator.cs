@@ -53,6 +53,8 @@ namespace Lab1
             calculator.Scade(numar1, numar2);
             calculator.Inmulteste(numar1, numar2);
             calculator.Imparte(numar1, numar2);
+            Program program = new Program();
+            program.ChooseExercise();
         }
     }
 }

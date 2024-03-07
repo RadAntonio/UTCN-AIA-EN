@@ -8,6 +8,12 @@ namespace Lab1
 {
     internal class Fibonacci
     { 
+        private int Fib(int n)
+        {
+            if (n <= 1)
+                return n;
+            return Fib(n - 1) + Fib(n - 2);
+        }
         public void WriteFibonacci()
         {
             Console.WriteLine("Fibonacci Program");
@@ -18,13 +24,8 @@ namespace Lab1
                 Console.Write(Fib(i) + " ");
             }
             Console.WriteLine();
-        }
-
-        private int Fib(int n)
-        {
-            if (n <= 1)
-                return n;
-            return Fib(n - 1) + Fib(n - 2);
+            Program program = new Program();
+            program.ChooseExercise(); 
         }
     }
 }

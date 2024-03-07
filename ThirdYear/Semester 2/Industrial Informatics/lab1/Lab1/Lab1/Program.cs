@@ -8,32 +8,26 @@ namespace Lab1
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
             Console.WriteLine("WELCOME TO LAB1!");
-            Console.WriteLine("Choose the exercise to display (1, 2, or 3):");
-            int choice;
 
-            // Error handling for input parsing
-            /*if (!int.TryParse(Console.ReadLine(), out choice))
-            {
-                Console.WriteLine("Invalid input. Please enter a valid integer.");
-                return;
-            }
-            
-            */
-            choice = int.Parse(Console.ReadLine());
+            Program program = new Program();
+            program.ChooseExercise();
 
-            ChooseExercise(choice);
-
-            // Add a pause before exiting (optional)
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
             
         }
-
-        static void ChooseExercise(int choice)
+        public void ChooseExercise()
         {
+            Console.WriteLine("Choose the exercise to display (1, 2, 3, 4, 5):");
+
+            int choice;
+
+            choice = int.Parse(Console.ReadLine());
+
             switch (choice)
             {
                 case 1:
@@ -45,7 +39,16 @@ namespace Lab1
                     calculator.Calcule();
                     break;
                 case 3:
-                    Console.WriteLine("Exercise 3");
+                    TemperatureConvertor temperatureConvertor = new TemperatureConvertor();
+                    temperatureConvertor.Convertor();
+                    break;
+                case 4:
+                    IdealMass idealMass = new IdealMass();
+                    idealMass.Controller();
+                    break;
+                case 5:
+                    Medii medii = new Medii();
+                    medii.Controller();
                     break;
                 default:
                     Console.WriteLine("Exercise does not exist");
