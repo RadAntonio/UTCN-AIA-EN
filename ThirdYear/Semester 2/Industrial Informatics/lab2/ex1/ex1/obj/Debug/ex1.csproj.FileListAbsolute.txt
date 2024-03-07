@@ -1,0 +1,11 @@
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\bin\Debug\ex1.exe.config
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\bin\Debug\ex1.exe
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\bin\Debug\ex1.pdb
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\obj\Debug\ex1.Properties.Resources.resources
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\obj\Debug\ex1.csproj.GenerateResource.cache
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\obj\Debug\ex1.exe
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\obj\Debug\ex1.pdb
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\obj\Debug\ex1.Form1.resources
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\ex1\ex1\obj\Debug\ex1.Form2.resources
