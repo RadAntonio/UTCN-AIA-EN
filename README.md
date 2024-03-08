@@ -14,20 +14,20 @@ This repository includes my homeworks, projects, notes, notebooks, laboratories 
 <br>
 </ul><li><b>2<sup>nd</sup> Semester</b></li>
 <ul>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Mathematical%20Analysis%20II">Mathematical Analysis II</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Special%20Mathematicas%20in%20Engineering">Special Mathematicas in Engineering</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Electrotechnics">Electrotechnics</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Computerr-aided%20Grapghics">Computer-Aided Graphics</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Applied%20Informatics">Applied Informatics</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Chemistry">Chemistry</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Mathematical%20Analysis%20II">Mathematical Analysis II</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Special%20Mathematicas%20in%20Engineering">Special Mathematicas in Engineering</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Electrotechnics">Electrotechnics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Computerr-aided%20Grapghics">Computer-Aided Graphics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Applied%20Informatics">Applied Informatics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Chemistry">Chemistry</a></li>
 </ul>
 </ul>
 
 <h2>Second Year</h2>
 <ul><li><b>3<sup>rd</sup> Semester</b></li>
 <ul>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/SecondYear/Semester%201/Measurements%20and%20Transducers">Numerical Calculus</a></li>
-	<li><a href="">Measurements and Transducers</a></li>
+	<li><a href="">Numerical Calculus</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/SecondYear/Semester%201/Measurements%20and%20Transducers">Measurements and Transducers</a></li>
 	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/SecondYear/Semester%201/Digital%20Electronics">Digital Electronics</a></li>
 	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/SecondYear/Semester%201/Algorithm%20Design">Algorithms Design</a></li>
 	<li><a href="">Process Modelling</a></li>
