@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -17,8 +18,8 @@ namespace ex1
         public Form1()
         {
             InitializeComponent();
+           
         }
-
         private void LoginButton_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(UserTextBox.Text))
@@ -32,6 +33,7 @@ namespace ex1
             else
             {
                 Form2 form2 = new Form2();
+                form2.UsernameFromForm1 = UserTextBox.Text;
                 form2.Show();
             }
         }
@@ -39,7 +41,9 @@ namespace ex1
         private void UserTextBox_TextChanged(object sender, EventArgs e)
         {
             
+
         }
+        public string Form1Username { get; set; }
 
         private void PasswordTextBox_TextChanged(object sender, EventArgs e)
         {

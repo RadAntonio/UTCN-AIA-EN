@@ -18,20 +18,13 @@ namespace ex2
             InitializeComponent();
         }
 
-        private void CopyButton_Click(object sender, EventArgs e)
-        {
-            foreach(var item in listBox1.Items)
-            {
-                listBox2.Items.Add(item);
-            }
-        
-        }
-
         private void DeleteButton_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < listBox1.Items.Count; i++)
+            if (listBox1.SelectedIndex != -1)
             {
-                listBox2.Items.Remove(listBox1.Items[i]); 
+                string selectedText = listBox2.SelectedItem.ToString();
+                listBox2.Items.Remove(selectedText);
+
             }
         }
 
@@ -42,7 +35,17 @@ namespace ex2
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+            
+        }
+        private void CopyButton_Click(object sender, EventArgs e)
+        {
+            if (listBox1.SelectedIndex != -1)
+            {
+                string selectedText = listBox1.SelectedItem.ToString();
+                listBox2.Items.Add(selectedText);
 
+            }
+           
         }
 
         private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
