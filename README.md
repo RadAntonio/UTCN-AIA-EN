@@ -4,22 +4,22 @@ This repository includes my homeworks, projects, notes, notebooks, laboratories 
 <h2>First Year</h2>
 <ul><li><b>1<sup>st</sup> Semester</b></li>
 <ul>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Computer%20Architecture">Computer Architecture</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Computer%20Programming">Computer Programming</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Linear%20Algebra%20and%20Analytical%20Geometry">Linear Algebra and Analytical Geometry</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Fundamentals%20of%20Electronic%20Circuits">Fundamentals of Electronic Circuits</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Physics">Physics</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Mathematical%20Analysis%20I">Mathematical Analysis I</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%201/Computer%20Architecture">Computer Architecture</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%201/Computer%20Programming">Computer Programming</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%201/Linear%20Algebra%20and%20Analytical%20Geometry">Linear Algebra and Analytical Geometry</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%201/Fundamentals%20of%20Electronic%20Circuits">Fundamentals of Electronic Circuits</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%201/Physics">Physics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%201/Mathematical%20Analysis%20I">Mathematical Analysis I</a></li>
 
 <br>
 </ul><li><b>2<sup>nd</sup> Semester</b></li>
 <ul>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Mathematical%20Analysis%20II">Mathematical Analysis II</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Special%20Mathematicas%20in%20Engineering">Special Mathematicas in Engineering</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Electrotechnics">Electrotechnics</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Computerr-aided%20Grapghics">Computer-Aided Graphics</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Applied%20Informatics">Applied Informatics</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester%202/Chemistry">Chemistry</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Mathematical%20Analysis%20II">Mathematical Analysis II</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Special%20Mathematicas%20in%20Engineering">Special Mathematicas in Engineering</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Electrotechnics">Electrotechnics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Computerr-aided%20Grapghics">Computer-Aided Graphics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Applied%20Informatics">Applied Informatics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FirstYear/Semester2/Chemistry">Chemistry</a></li>
 </ul>
 </ul>
 
