@@ -4,12 +4,12 @@ This repository includes my homeworks, projects, notes, notebooks, laboratories 
 <h2>First Year</h2>
 <ul><li><b>1<sup>st</sup> Semester</b></li>
 <ul>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FIrst%20Year/Semester%201/Computer%20Architecture">Computer Architecture</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FIrst%20Year/Semester%201/Computer%20Programming">Computer Programming</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FIrst%20Year/Semester%201/Linear%20Algebra%20and%20Analytical%20Geometry">Linear Algebra and Analytical Geometry</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FIrst%20Year/Semester%201/Fundamentals%20of%20Electronic%20Circuits">Fundamentals of Electronic Circuits</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FIrst%20Year/Semester%201/Physics">Physics</a></li>
-	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/FIrst%20Year/Semester%201/Mathematical%20Analysis%20I">Mathematical Analysis I</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Computer%20Architecture">Computer Architecture</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Computer%20Programming">Computer Programming</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Linear%20Algebra%20and%20Analytical%20Geometry">Linear Algebra and Analytical Geometry</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Fundamentals%20of%20Electronic%20Circuits">Fundamentals of Electronic Circuits</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Physics">Physics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/First%20Year/Semester%201/Mathematical%20Analysis%20I">Mathematical Analysis I</a></li>
 
 <br>
 </ul><li><b>2<sup>nd</sup> Semester</b></li>
@@ -26,11 +26,13 @@ This repository includes my homeworks, projects, notes, notebooks, laboratories 
 <h2>Second Year</h2>
 <ul><li><b>3<sup>rd</sup> Semester</b></li>
 <ul>
-	<li><a href="">Numerical Calculus</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/SecondYear/Semester%201/Measurements%20and%20Transducers">Numerical Calculus</a></li>
 	<li><a href="">Measurements and Transducers</a></li>
-	<li><a href="">Digital Electronics</a></li>
-	<li><a href="">Algorithms Design</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/SecondYear/Semester%201/Digital%20Electronics">Digital Electronics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/SecondYear/Semester%201/Algorithm%20Design">Algorithms Design</a></li>
 	<li><a href="">Process Modelling</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/SecondYear/Semester%201/Logic%20Design">Logic Design</a></li>
+
 </ul>
 	
 <br>
@@ -58,9 +60,9 @@ This repository includes my homeworks, projects, notes, notebooks, laboratories 
 <br>
 <li><b>6<sup>th</sup> Semester</b></li>
 <ul>
-	<li><a href="">Control Engineering II</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/ThirdYear/Semester%202/Control%20Engineering%202">Control Engineering II</a></li>
 	<li><a href="">Real-time Systems</a></li>
-	<li><a href="">Industrial Informatics</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/ThirdYear/Semester%202/Industrial%20Informatics">Industrial Informatics</a></li>
 	<li><a href="">Electric and Electronic Control Equipment</a></li>
 	<li><a href="">Hydro-pneumatic Control Equipment</a></li>
 	<li><a href="">Data Transmission</a></li>
