@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\ex4Bun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2021E30D-1B91-492A-A62C-2F7AAD317C5F}|ex4Bun\\ex4Bun.csproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\industrial informatics\\lab2\\ex4bun\\ex4bun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2021E30D-1B91-492A-A62C-2F7AAD317C5F}|ex4Bun\\ex4Bun.csproj|solutionrelative:ex4bun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2021E30D-1B91-492A-A62C-2F7AAD317C5F}|ex4Bun\\ex4Bun.csproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\industrial informatics\\lab2\\ex4bun\\ex4bun\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2021E30D-1B91-492A-A62C-2F7AAD317C5F}|ex4Bun\\ex4Bun.csproj|solutionrelative:ex4bun\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2021E30D-1B91-492A-A62C-2F7AAD317C5F}|ex4Bun\\ex4Bun.csproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\industrial informatics\\lab2\\ex4bun\\ex4bun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2021E30D-1B91-492A-A62C-2F7AAD317C5F}|ex4Bun\\ex4Bun.csproj|solutionrelative:ex4bun\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\ex4Bun\\ex4Bun\\Form1.cs",
+              "RelativeDocumentMoniker": "ex4Bun\\Form1.cs",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\ex4Bun\\ex4Bun\\Form1.cs",
+              "RelativeToolTip": "ex4Bun\\Form1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:33:04.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\ex4Bun\\ex4Bun\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "ex4Bun\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\ex4Bun\\ex4Bun\\Properties\\Resources.resx",
+              "RelativeToolTip": "ex4Bun\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-08T15:29:50.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\ex4Bun\\ex4Bun\\Form1.cs",
+              "RelativeDocumentMoniker": "ex4Bun\\Form1.cs",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\ex4Bun\\ex4Bun\\Form1.cs [Design]",
+              "RelativeToolTip": "ex4Bun\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:21:30.307Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
