@@ -1,0 +1,11 @@
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\bin\Debug\TemaT1.exe.config
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\bin\Debug\TemaT1.exe
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\bin\Debug\TemaT1.pdb
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\obj\Debug\TemaT1.csproj.AssemblyReference.cache
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\obj\Debug\TemaT1.Form1.resources
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\obj\Debug\TemaT1.Properties.Resources.resources
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\obj\Debug\TemaT1.csproj.GenerateResource.cache
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\obj\Debug\TemaT1.csproj.CoreCompileInputs.cache
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\obj\Debug\TemaT1.exe
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\obj\Debug\TemaT1.pdb
+C:\Users\tonir\Desktop\UTCN-AIA-EN\ThirdYear\Semester 2\Industrial Informatics\lab2\TemaT1\TemaT1\obj\Debug\TemaT1.Form2.resources
