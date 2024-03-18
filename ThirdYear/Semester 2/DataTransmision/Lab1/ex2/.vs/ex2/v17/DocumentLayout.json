@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18909D7A-8D80-46B8-9348-C9E026B04DB1}|ex2\\ex2.esproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\datatransmision\\lab1\\ex2\\ex2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18909D7A-8D80-46B8-9348-C9E026B04DB1}|ex2\\ex2.esproj|solutionrelative:ex2\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18909D7A-8D80-46B8-9348-C9E026B04DB1}|ex2\\ex2.esproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\datatransmision\\lab1\\ex2\\ex2\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18909D7A-8D80-46B8-9348-C9E026B04DB1}|ex2\\ex2.esproj|solutionrelative:ex2\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18909D7A-8D80-46B8-9348-C9E026B04DB1}|ex2\\ex2.esproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\datatransmision\\lab1\\ex2\\ex2\\apptest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18909D7A-8D80-46B8-9348-C9E026B04DB1}|ex2\\ex2.esproj|solutionrelative:ex2\\apptest.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\ex2\\ex2\\app.js",
+              "RelativeDocumentMoniker": "ex2\\app.js",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\ex2\\ex2\\app.js",
+              "RelativeToolTip": "ex2\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-13T07:31:30.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appTest.js",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\ex2\\ex2\\appTest.js",
+              "RelativeDocumentMoniker": "ex2\\appTest.js",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\ex2\\ex2\\appTest.js",
+              "RelativeToolTip": "ex2\\appTest.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-13T07:30:44.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\ex2\\ex2\\index.html",
+              "RelativeDocumentMoniker": "ex2\\index.html",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\ex2\\ex2\\index.html",
+              "RelativeToolTip": "ex2\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-13T07:29:10.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

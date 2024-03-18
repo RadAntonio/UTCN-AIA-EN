@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\TemaT1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760E5BE0-D103-4497-A5FB-852E624FFCEC}|TemaT1\\TemaT1.csproj|C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\TemaT1\\temat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{760E5BE0-D103-4497-A5FB-852E624FFCEC}|TemaT1\\TemaT1.csproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\industrial informatics\\lab2\\temat1\\temat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760E5BE0-D103-4497-A5FB-852E624FFCEC}|TemaT1\\TemaT1.csproj|solutionrelative:temat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{760E5BE0-D103-4497-A5FB-852E624FFCEC}|TemaT1\\TemaT1.csproj|solutionrelative:temat1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{760E5BE0-D103-4497-A5FB-852E624FFCEC}|TemaT1\\TemaT1.csproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\industrial informatics\\lab2\\temat1\\temat1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{760E5BE0-D103-4497-A5FB-852E624FFCEC}|TemaT1\\TemaT1.csproj|C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\TemaT1\\temat1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760E5BE0-D103-4497-A5FB-852E624FFCEC}|TemaT1\\TemaT1.csproj|solutionrelative:temat1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "TemaT1\\Form2.cs",
               "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\TemaT1\\TemaT1\\Form2.cs",
               "RelativeToolTip": "TemaT1\\Form2.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAIwHwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T22:56:02.212Z",
               "EditorCaption": ""
@@ -50,8 +50,7 @@
               "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\TemaT1\\TemaT1\\Form2.cs [Design]",
               "RelativeToolTip": "TemaT1\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:53:01.677Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-08T22:53:01.677Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "TemaT1\\Form1.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:10:16.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T22:10:16.793Z"
             },
             {
               "$type": "Document",
@@ -75,8 +73,7 @@
               "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\Industrial Informatics\\lab2\\TemaT1\\TemaT1\\Form1.cs [Design]",
               "RelativeToolTip": "TemaT1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:02:42.796Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-08T22:02:42.796Z"
             }
           ]
         }

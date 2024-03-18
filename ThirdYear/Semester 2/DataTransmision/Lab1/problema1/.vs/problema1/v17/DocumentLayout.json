@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79126A-C45B-4975-A504-13390AE0BE52}|problema1\\problema1.esproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\datatransmision\\lab1\\problema1\\problema1\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5A79126A-C45B-4975-A504-13390AE0BE52}|problema1\\problema1.esproj|solutionrelative:problema1\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79126A-C45B-4975-A504-13390AE0BE52}|problema1\\problema1.esproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\datatransmision\\lab1\\problema1\\problema1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A79126A-C45B-4975-A504-13390AE0BE52}|problema1\\problema1.esproj|solutionrelative:problema1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79126A-C45B-4975-A504-13390AE0BE52}|problema1\\problema1.esproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\datatransmision\\lab1\\problema1\\problema1\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A79126A-C45B-4975-A504-13390AE0BE52}|problema1\\problema1.esproj|solutionrelative:problema1\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema1\\problema1\\style.css",
+              "RelativeDocumentMoniker": "problema1\\style.css",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema1\\problema1\\style.css",
+              "RelativeToolTip": "problema1\\style.css",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T08:10:11.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema1\\problema1\\index.html",
+              "RelativeDocumentMoniker": "problema1\\index.html",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema1\\problema1\\index.html",
+              "RelativeToolTip": "problema1\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-13T08:08:58.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema1\\problema1\\app.js",
+              "RelativeDocumentMoniker": "problema1\\app.js",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema1\\problema1\\app.js",
+              "RelativeToolTip": "problema1\\app.js",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-13T08:07:34.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
