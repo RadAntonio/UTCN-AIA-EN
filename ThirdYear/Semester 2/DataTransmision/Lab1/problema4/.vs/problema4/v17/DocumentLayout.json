@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B300F19E-648B-4E14-8697-BC88D84161A3}|problema4\\problema4.esproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\datatransmision\\lab1\\problema4\\problema4\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B300F19E-648B-4E14-8697-BC88D84161A3}|problema4\\problema4.esproj|solutionrelative:problema4\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B300F19E-648B-4E14-8697-BC88D84161A3}|problema4\\problema4.esproj|c:\\users\\tonir\\desktop\\utcn-aia-en\\thirdyear\\semester 2\\datatransmision\\lab1\\problema4\\problema4\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B300F19E-648B-4E14-8697-BC88D84161A3}|problema4\\problema4.esproj|solutionrelative:problema4\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema4\\problema4\\app.js",
+              "RelativeDocumentMoniker": "problema4\\app.js",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema4\\problema4\\app.js",
+              "RelativeToolTip": "problema4\\app.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-18T20:31:58.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema4\\problema4\\index.html",
+              "RelativeDocumentMoniker": "problema4\\index.html",
+              "ToolTip": "C:\\Users\\tonir\\Desktop\\UTCN-AIA-EN\\ThirdYear\\Semester 2\\DataTransmision\\Lab1\\problema4\\problema4\\index.html",
+              "RelativeToolTip": "problema4\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-18T20:30:29.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
