@@ -61,9 +61,9 @@ This repository includes my homeworks, projects, notes, notebooks, laboratories 
 <li><b>6<sup>th</sup> Semester</b></li>
 <ul>
 	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/ThirdYear/Semester%202/Control%20Engineering%202">Control Engineering II</a></li>
-	<li><a href="">Real-time Systems</a></li>
+	<li><a href="https://github.com/RadAntonio/Rad_Antonio_Emilian_30333_RTSLab">Real-time Systems</a></li>
 	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/ThirdYear/Semester%202/Industrial%20Informatics">Industrial Informatics</a></li>
 	<li><a href="">Electric and Electronic Control Equipment</a></li>
 	<li><a href="">Hydro-pneumatic Control Equipment</a></li>
-	<li><a href="">Data Transmission</a></li>
+	<li><a href="https://github.com/RadAntonio/UTCN-AIA-EN/tree/main/ThirdYear/Semester%202/DataTransmision">Data Transmission</a></li>
 </ul>
